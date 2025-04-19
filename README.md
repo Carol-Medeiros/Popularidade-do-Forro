@@ -1,32 +1,36 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- Carol Medeiros (202421250002) - carol.maior@academico.ifpb.edu.br  
+- Emilly Carolayne Almeida (202421250023) - emilly.queiroz@academico.ifpb.edu.br  
+- Isadora de Sousa (202421250004) - isadora.sousa@academico.ifpb.edu.br 
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+Este projeto tem como propósito analisar estatisticamente o comportamento das músicas de forró no Brasil, considerando a influência de datas específicas, promoções e eventos comemorativos. O projeto busca identificar como períodos de festas juninas, feriados e campanhas promocionais impactam na popularidade e no consumo das músicas do gênero.
+
+A motivação surge da importância cultural do forró e da percepção de que seu desempenho varia conforme o calendário e ações de divulgações. Com a coleta e análise de dados, o estudo pretende revelar padrões de sazonalidade e estratégias que favorecem o sucesso das músicas, contribuindo para um melhor entendimento do mercado musical brasileiro.
 
 ## 📊 Conjunto de Dados Selecionado  
 - **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
+  Spotify - Popularidade do forró no Brasil
 
 - **Fonte:**  
-  (Link ou citação da base de dados)
+  https://developer.spotify.com/documentation/web-api
 
 - **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+  Os dados coletados contém informações sobre o desempenho das músicas de forró no Brasil, incluindo datas de lançamento, números de streams e variações de popularidade em relação a eventos sazionais e promocionais.
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
+  O conjunto de dados permite analisar como datas comemorativas e promoções influenciam no consumo de músicas de forró no Spotify. Ele possibilita identificar padrões de popularidade, estratégias de divulgações e períodos de maior sucesso das músicas.
 
 ---
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+• O número de streams de músicas de forró aumenta nas festas juninas?
+
+• As datas de lançamento influenciam a populariade das músicas?
+
+• Eventos promocionais impactam o consumo de músicas de forró?
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
