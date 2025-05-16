@@ -1,0 +1,8 @@
+Coluna 1;Coluna 2;Coluna 3;Coluna 4 
+Categoria;Variável;Tipo;Descrição
+Estrutura do Dataset;Total de Registros;-;Número total de linhas no dataset (392)
+Estrutura do Dataset;Total de Variáveis;-;Número total de colunas no dataset (4)
+Variáveis Quantitativas (Numéricas);Popularidade;Quantitativa;Popularidade média das músicas (0 a 100)
+Variáveis Quantitativas (Numéricas);Quantidade de Músicas;Quantitativa;Quantidade de músicas lançadas no mês
+Variáveis Qualitativas (Categóricas);Artista;Qualitativa;Nome do artista
+Variáveis Qualitativas (Categóricas);Mês;Qualitativa;Mês do lançamento (01 a 12)
